@@ -43,4 +43,6 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make your changes and test thoroughly.
 4. Submit a pull request, describing the changes you've made.
 
-![Screenshot 2023-09-09 172727](https://github.com/Suniti-0020/toDoList/assets/119940275/cf4667f0-66c6-48d5-8ea1-ec17b2ab405d)
+
+<img width="831" alt="todolist" src="https://github.com/Sarita-021/toDoList/assets/121181405/35be792f-e3cf-4508-a8e9-2847083d00be">
+

@@ -7,9 +7,7 @@ This project is a simple web-based to-do list application designed to help users
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
 3. [Setup Instructions](#setup-instructions)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Contributing](#contributing)
 
 ## Features
 - **Add Tasks**: Users can add new tasks to their to-do list with a title and optional description.
